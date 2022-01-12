@@ -19,9 +19,12 @@ h1{
 h2{
     font-size: 2.230rem;
     font-weight: 300;
-
 }
 h3{
     font-size: 1.132rem;
     color: gray;
+    font-weight: normal;
+}
+footer{
+    text-align: right;
 }
